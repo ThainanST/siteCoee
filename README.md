@@ -5,6 +5,9 @@ Colegiado de Engenharia Elétrica da Universidade Federal de Ouro Preto (UFOP).
 O material é histórico e não substitui as informações oficiais atuais. A data
 de captura preferencial é **27/07/2024** (`20240727095454`).
 
+Após a publicação no GitHub Pages, acesse a cópia em:
+https://thainanst.github.io/siteCoee/
+
 ## Abrir no VS Code
 
 Clone o repositório e abra a pasta no VS Code:
