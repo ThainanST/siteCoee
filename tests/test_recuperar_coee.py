@@ -139,8 +139,15 @@ class RecoveryHelpersTests(unittest.TestCase):
                 self.assertEqual(fetch_mock.call_count, 2)
                 self.assertEqual(sum(e["status"] == "pendente" for e in manifest["entries"]), 1)
                 recuperar.build_site(manifest)
-                self.assertTrue((docs / "index.html").exists())
+                homepage = docs / "paginas" / "inicio.html"
+                self.assertTrue(homepage.exists())
+                self.assertNotIn("archive-notice", homepage.read_text(encoding="utf-8"))
                 self.assertEqual(unmanaged.read_text(encoding="utf-8"), "não remover")
+
+    def test_landing_page_links_to_local_copy_and_reference(self):
+        landing = (SCRIPT.parent.parent / "docs" / "index.html").read_text(encoding="utf-8")
+        self.assertIn('href="paginas/inicio.html"', landing)
+        self.assertIn(f'href="{recuperar.wayback_url(recuperar.START_URL)}"', landing)
 
 
 if __name__ == "__main__":

@@ -79,10 +79,11 @@ Para gerar o site e iniciá-lo em `http://localhost:8000/siteCoEe/`, execute:
 ```
 
 Use `--port 8080` para escolher outra porta. A prévia publica somente os
-arquivos de `docs\` e mapeia esse conteúdo em `/siteCoEe/`. A página inicial é
-`docs\index.html`. Links não recuperados apontam para a captura do Wayback e
-são identificados como pendentes; confira a situação e o erro correspondente
-no manifesto.
+arquivos de `docs\` e mapeia esse conteúdo em `/siteCoee/`. A página de
+apresentação é `docs\index.html`; ela dá acesso à cópia histórica e à captura
+de referência. Links não recuperados apontam para a captura do Wayback e são
+identificados como pendentes; confira a situação e o erro correspondente no
+manifesto.
 
 ## Publicação futura no GitHub Pages
 

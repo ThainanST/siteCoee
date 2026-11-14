@@ -122,7 +122,7 @@ def output_path(url: str, kind: str, content_type: str = "") -> str:
     slug = re.sub(r"-+", "-", slug).strip("-") or "arquivo"
     if kind == "page":
         if url == START_URL:
-            return "index.html"
+            return "paginas/inicio.html"
         return f"paginas/{slug}-{digest}.html"
     if not suffix:
         if kind == "css":
@@ -838,18 +838,7 @@ def build_site(manifest: dict) -> None:
             parser = LinkRewriter(url, output_relative, local_map)
             parser.feed(text)
             rendered = "".join(parser.output)
-            banner = (
-                '<aside class="archive-notice">Cópia histórica do site do Colegiado de '
-                'Engenharia Elétrica da UFOP (COEE), baseada em capturas do Internet Archive. '
-                '<a href="https://web.archive.org/web/20240727095454/https://coee.ufop.br/">'
-                "Consultar captura de referência</a>.</aside>"
-            )
-            rendered = re.sub(r"(<body\b[^>]*>)", r"\1" + banner, rendered, count=1, flags=re.I)
-            style = (
-                "<style>.archive-notice{margin:0;padding:10px 16px;background:#fff3cd;"
-                "color:#333;font:14px/1.5 sans-serif}.archive-notice a{font-weight:bold}"
-                ".archive-pending-label{color:#8a4b08;font-size:.85em}</style>"
-            )
+            style = "<style>.archive-pending-label{color:#8a4b08;font-size:.85em}</style>"
             rendered = re.sub(r"</head\s*>", style + "</head>", rendered, count=1, flags=re.I)
             destination.write_text(rendered, encoding="utf-8")
         elif kind == "css":
