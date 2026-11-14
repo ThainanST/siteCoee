@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="pt-br" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="pt-br" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="pt-br" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="pt-br" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="pt-br" dir="ltr"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="https://coee.ufop.br/profiles/openscholar/themes/hwpi_modern/favicon.png" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="OpenScholar for Drupal 7 (http://theopenscholar.org)" />
+<link rel="canonical" href="https://coee.ufop.br/infraestrutura" />
+<link rel="shortlink" href="https://coee.ufop.br/node/18009" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Infraestrutura" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Colegiado do Curso de Engenharia Elétrica" />
+<meta name="twitter:description" content="Infraestrutura" />
+<meta name="twitter:image" content="https://coee.ufop.br/sites/default/files/coee/files/slideshow_ufop_50_anos_-_vinho_3d_0.png?m=1592188365" />
+<title>Infraestrutura | Colegiado do Curso de Engenharia Elétrica</title>
+
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+@import url("https://coee.ufop.br/modules/system/system.base.css?sgo69t");
+@import url("https://coee.ufop.br/modules/system/system.menus.css?sgo69t");
+@import url("https://coee.ufop.br/modules/system/system.messages.css?sgo69t");
+@import url("https://coee.ufop.br/modules/system/system.theme.css?sgo69t");
+</style>
+<style>
+@import url("https://coee.ufop.br/modules/book/book.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/modules/contrib/calendar/css/calendar_multiday.css?sgo69t");
+@import url("https://coee.ufop.br/modules/comment/comment.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/modules/contrib/date/date_api/date.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/modules/contrib/date/date_popup/themes/datepicker.1.7.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/modules/contrib/date/date_repeat_field/date_repeat_field.css?sgo69t");
+@import url("https://coee.ufop.br/modules/field/theme/field.css?sgo69t");
+@import url("https://coee.ufop.br/modules/node/node.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/modules/os/modules/os_slideshow/os_slideshow.css?sgo69t");
+@import url("https://coee.ufop.br/modules/search/search.css?sgo69t");
+@import url("https://coee.ufop.br/modules/user/user.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/modules/contrib/views/css/views.css?sgo69t");
+</style>
+<style>
+@import url("https://coee.ufop.br/profiles/openscholar/modules/contrib/colorbox/styles/default/colorbox_style.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/modules/contrib/ctools/css/ctools.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/modules/contrib/views_slideshow/views_slideshow.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/modules/contrib/biblio/biblio.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/themes/hwpi_basetheme/css/responsive.base.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/themes/hwpi_basetheme/css/responsive.layout.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/themes/hwpi_basetheme/css/responsive.nav.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/themes/hwpi_basetheme/css/responsive.slideshow.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/themes/hwpi_basetheme/css/responsive.widgets.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/themes/hwpi_modern/css/responsive.modern.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/modules/contrib/nice_menus/css/nice_menus.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/modules/contrib/nice_menus/css/nice_menus_default.css?sgo69t");
+</style>
+<style media="screen">
+@import url("https://coee.ufop.br/profiles/openscholar/themes/adaptivetheme/at_core/css/at.layout.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/themes/os_basetheme/css/globals.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/themes/hwpi_basetheme/css/hwpi.globals.css?sgo69t");
+@import url("https://coee.ufop.br/profiles/openscholar/themes/hwpi_modern/css/hwpi_modern.css?sgo69t");
+</style>
+<style media="print">
+@import url("https://coee.ufop.br/profiles/openscholar/themes/os_basetheme/css/print.css?sgo69t");
+</style>
+<style>
+@import url("https://coee.ufop.br/profiles/openscholar/modules/os/theme/os_dismiss.css?sgo69t");
+</style>
+  <!--[if lte IE 8]>
+<script type="text/javascript">
+  var os_c = document.createElement;os_c('header');os_c('nav');os_c('section');os_c('article');os_c('aside');os_c('footer');os_c('hgroup');os_c('figure');
+</script>
+  <![endif]-->
+  
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-18009 node-type-page og-context og-context-node og-context-node-15744  navbar-on">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable" tabindex="1">Pular para o conteúdo principal</a>
+  </div>
+  <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+  <ul id="menu-barra-temp" style="list-style:none;">
+    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED">
+        <a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a>
+    </li>
+    <li>
+       <a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a>
+    </li>
+  </ul>
+</div>
+
+    <div id="page_wrap" class="page_wrap">
+<!--REGION TO HOUSE RESPONSIVE MENU. OTHER CONTENT CAN'T BE PLACED HERE-->
+<div class="responive-menu-container clearfix">
+  <ul class="mobile-buttons num-links-3"><li class="link-count-mobi-main first"><a href="#"  data-target="#block-os-primary-menu"><span aria-hidden="true" class="icon-menu"></span><span class="move">Main Menu</span></a></li><li class="link-count-mobi-util"><a href="#"  data-target="#block-os-quick-links, #block-os-secondary-menu, #header .os-custom-menu"><span aria-hidden="true" class="icon-plus"></span><span class="move">Utility Menu</span></a></li><li class="link-count-mobi-search last"><a href="#"  data-target="#block-os-search-db-site-search, #block-boxes-solr-search-box"><span aria-hidden="true" class="icon-search3"></span><span class="move">Search</span></a></li></ul></div>
+
+<!--FLEXIBLE ADMIN HEADER FOR USE BY SELECT GROUPS USING OS-->
+	<div id="branding_header">
+		<div  class="branding-container clearfix">
+		  <div class="branding-left"><a href="http://www.ufop.br/" ><img src="https://coee.ufop.br/profiles/openscholar/themes/hwpi_basetheme/images/ufop-logo.png" width="236" height="33" alt="University Logo" /></a></div><div class="branding-right"><a href="http://www.ufop.br/" >UFOP.BR</a></div>		</div>
+	</div>
+
+<div id="page" class="container page header-left header-main header-right content-top footer-none">
+	<div id="page-wrapper">
+
+		
+					<!--header regions beg-->
+			<header id="header" class="clearfix" role="banner">
+			 <div id="header-container">
+				 <div id="header-panels" class="at-panel gpanel panel-display three-col clearfix">
+					  					  <div class="region region-header-second"><div class="region-inner clearfix"><div id="block-boxes-site-info" class="block block-boxes block-boxes-os_boxes_site_info no-title"  module="boxes" delta="site_info"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-site_info' class='boxes-box'><div class="boxes-box-content"><h1><a href="https://coee.ufop.br/" >Colegiado do Curso de Engenharia Elétrica</a></h1>
+    
+    <p>ICEA - Campus João Monlevade - MG - Brasil<br></p></div></div></div>
+  </div></div></div></div>					  <div class="region region-header-first"><div class="region-inner clearfix"><div id="block-boxes-shield" class="block block-boxes block-boxes-os_shields_box no-title"  module="boxes" delta="shield"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-shield' class='boxes-box'><div class="boxes-box-content"><div id="scholar-shield"><img src="https://coee.ufop.br/sites/default/files/os_shields/logoufopfooter.fw_.png?m=1525724487" alt="Shield" /></div></div></div></div>
+  </div></div></div></div>					  <div class="region region-header-third"><div class="region-inner clearfix"><div id="block-os-search-db-site-search" class="block block-os-search-db no-title"  module="os_search_db" delta="site-search"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><form action="/infraestrutura" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label for="edit-search-block-form--2">Buscar </label>
+ <input title="Digite os termos que você deseja procurar." ng-non-bindable="" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Buscar" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-smkwODAmr1k88DJs9-vxD4elmbFrdNM-XyN8iPxSPH4" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div></div></form></div>
+  </div></div></div></div>					  				 </div>
+			  </div>
+		  </header>
+      <!--header regions end-->
+		
+				  <!--main menu region beg-->
+		  <div id="menu-bar" class="nav region-menu-bar clearfix"><nav id="block-os-primary-menu" class="block block-os no-title menu-wrapper menu-bar-wrapper clearfix"  module="os" delta="primary-menu">  
+  
+  <ul class="nice-menu nice-menu-down nice-menu-primary-menu" id="nice-menu-primary-menu"><li class="menu-79838 menu-path-front  first   odd  "><a href="https://coee.ufop.br/" >Início</a></li><li class="menu-668 menu-path-news   even  "><a href="https://coee.ufop.br/news"  title="List of news">Notícias</a></li><li class="menu-69986 menuparent    odd  "><a  class="menu-heading">Curso</a><span class="open-submenu"></span><ul><li class="menu-69989 menu-path-node-17998  first   odd  "><a href="https://coee.ufop.br/gradua%C3%A7%C3%A3o"  title="">Graduação</a></li><li class="menu-100802 menu-path-node-23931   even  "><a href="https://coee.ufop.br/docentes"  title="">Docentes</a></li><li class="menu-70027 menu-path-node-18004   odd  "><a href="https://coee.ufop.br/projeto-pedag%C3%B3gico-do-curso"  title="">Projeto pedagógico do curso</a></li><li class="menu-70033 menu-path-node-18006   even  "><a href="https://coee.ufop.br/matriz-curricular-1"  title="">Matriz curricular</a></li><li class="menu-70024 menu-path-node-18003   odd  "><a href="https://coee.ufop.br/ementas"  title="">Programas das disciplinas</a></li><li class="menu-70282 menu-path-node-18060   even   last "><a href="https://coee.ufop.br/guia-do-estudante"  title="">Avaliação do Curso</a></li></ul></li><li class="menu-69981 menuparent    even  "><a  class="menu-heading">NDE-EE</a><span class="open-submenu"></span><ul><li class="menu-121835 menu-path-https--coeeufopbr-sobre-o-nde  first   odd  "><a href="https://coee.ufop.br/sobre-o-nde" >Sobre o NDE</a></li><li class="menu-69984 menu-path-node-17997   even   last "><a href="https://coee.ufop.br/membros-ndee"  title="">Membros NDEE</a></li></ul></li><li class="menu-70047 menu-path-node-18009   odd  "><a href="https://coee.ufop.br/infraestrutura"  title="" class="active">Infraestrutura</a></li><li class="menu-74437 menuparent    even  "><a  class="menu-heading">Pesquisa e Extensão</a><span class="open-submenu"></span><ul><li class="menu-74455 menu-path-node-18784  first   odd  "><a href="https://coee.ufop.br/grupos-de-pesquisa"  title="">Grupos de Pesquisa</a></li><li class="menu-70540 menu-path-node-18087   even  "><a href="https://coee.ufop.br/inicia%C3%A7%C3%A3o-cient%C3%ADfica"  title="">Projetos de pesquisa</a></li><li class="menu-70537 menu-path-node-18086   odd   last "><a href="https://coee.ufop.br/projeto-de-extens%C3%A3o"  title="">Projetos de Extensão 2020</a></li></ul></li><li class="menu-74445 menu-path-node-18783   odd  "><a href="https://coee.ufop.br/bolsas"  title="">Bolsas</a></li><li class="menu-69953 menu-path-node-17990   even   last "><a href="https://coee.ufop.br/contato"  title="">Contato</a></li></ul>
+
+  </nav></div>		  <!--main menu region end-->
+		
+    
+		<div id="columns" class="clearfix">
+			<div class="hg-container">
+				<div id="content-column" role="main">
+					<div class="content-inner">
+					  <div class="breadcrumb"><a href="https://coee.ufop.br/" >INíCIO</a> <span>&#47;</span> </div>
+													              <a name="main-content"></a>
+															<header id="main-content-header">
+									<a name="main-content"></a>
+                    <h1 id="page-title" ng-non-bindable="">
+                      Infraestrutura                    </h1>
+                </header>
+														
+															<!--front panel regions beg-->
+								<div id="content-panels" class="at-panel gpanel panel-display content clearfix">
+									<div class="region region-content-top"><div class="region-inner clearfix"><div id="block-os-pages-main-content" class="block block-os-pages no-title"  module="os_pages" delta="main_content"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><article id="node-18009" class="node node-page article clearfix" role="article">
+  
+  
+  
+  <div class="node-content" ng-non-bindable="">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><p style="text-align: justify;">
+	<a data-url="https://drive.google.com/file/d/1vUnQByj3RWt1kUHimsq-nJoyiGL_TGH9/view?usp=sharing" href="https://drive.google.com/file/d/1vUnQByj3RWt1kUHimsq-nJoyiGL_TGH9/view?usp=sharing" target="_blank" title="">Laboratórios(disciplinas obrigatórias e eletivas por semestres)</a><br /><br /><span style="line-height:115%"><strong>1.   Laboratório de circuitos elétricos</strong><br />Os alunos aprendem a manusear equipamentos e ferramentas de corrente contínua (CC), primeiramente, e de corrente alternada (CA), na sequência, no Laboratório de Circuitos Elétricos. No que se refere aos circuitos de corrente contínua, são aplicadas as leis gerais, que também são similarmente em termos de circuitos de corrente alternada; tais como transformação estrela triângulo e vice-versa, teorema da transposição e leis de Kirchhoff, dentre outras. Ao final, dever-se-á ser capaz de analisar os circuitos em CC e CA de acordo com os seguintes tópicos: excitação senoidal e fasores; análise em regime permanente; potência em regime permanente; circuitos trifásicos; frequência complexa e funções de rede; resposta em frequência; circuitos acoplados magneticamente e filtros Passivos.</span>
+</p>
+
+<p>
+	<img height="1333" width="2000" alt="dfgdfg" title="fgdfgdfg" class="media-element file-default file-os-files-xxlarge" src="https://coee.ufop.br/sites/default/files/styles/os_files_xxlarge/public/coee/files/dsc_0266.jpg?m=1592257491&amp;itok=4vVe-qyq" /></p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	<strong><span style="line-height:115%">2.   Laboratório de eletrônica analógica</span></strong><br />O laboratório de eletrônica analógica atende diversas disciplinas práticas do curso de engenharia elétrica e engenharia de computação. A sua principal missão é que os alunos destes cursos possam realizar ensaios e práticas das disciplinas que tenham em sua ementa unidades relacionadas a eletrônica e eletrotécnica. Para isso, o laboratório conta com diferentes recursos e equipamentos como fontes de alimentação ajustável, osciloscópios, protoboard, multímetros, computadores, diversos componentes eletrônicos, etc. O laboratório possui um técnico que auxilia na execução das aulas práticas e é responsável pela organização do espaço e equipamentos. Além de auxiliar e acompanhar os alunos que necessitem usar o laboratório fora dos horários das aulas. Além do técnico, o laboratório possui um coordenador responsável.
+</p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	<img height="1333" width="2000" alt="fdfgdfg" title="fgdfgdfg" class="media-element file-default file-os-files-xxlarge" src="https://coee.ufop.br/sites/default/files/styles/os_files_xxlarge/public/coee/files/dsc_0295.jpg?m=1592257362&amp;itok=OeL7Lt8D" /></p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	 
+</p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	<strong><span style="line-height:115%">3.   Laboratório de controle e automação</span></strong><br />O Laboratório de Controle e Automação foi projetado para lecionar o conteúdo prático das disciplinas do curso de Engenharia Elétrica relacionadas à área de Sistemas de Controle. O Laboratório de Controle e Automação é dividido em três salas, H204, H205 e H206. A sala H204 pode ser utilizada para montagens de experimentos, de kits móveis e para a realização de experimentos utilizando o braço robótico (Arm Robot Trainner ARM-7220-4). Na sala H205 podem ser realizados experimentos utilizando plataformas de simulação de uma linha de produção (Planta Automation trainner ED-4031). Na sala H206 podem ser realizados experimentos utilizando plataformas de simulações de automatização de um ambiente industrial (PLC Exsto XC 103 e Exsto XC 201), assim como também a Planta Didática da Smar com Tecnologia Foundation Fieldbus.
+</p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	<img height="1333" width="2000" alt="fgdfg" title="dfgdfg" class="media-element file-default file-os-files-xxlarge" src="https://coee.ufop.br/sites/default/files/styles/os_files_xxlarge/public/coee/files/dsc_0277.jpg?m=1592258082&amp;itok=OPqmCYbj" /></p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	 
+</p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	<strong><span style="line-height:115%">4.  Laboratório de sistemas elétricos industriais</span></strong>
+</p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	<span style="font-size:14px;"><span style="font-family:Times New Roman,Times,serif;">Laboratório destinado às práticas das máquinas elétricas estacionárias ( transformadores ) e as máquinas elétricas girantes ( motores e geradores ). </span></span><span style="font-size:14px;"><span style="font-family:Times New Roman,Times,serif;">Também se destina a este laboratório as práticas associadas às interfaces eletrônicas de potências aplicadas aos sistemas elétricos de potência ( SEP ) como retificadores, inversores e compensadores estáticos. </span></span><span style="font-size:14px;"><span style="font-family:Times New Roman,Times,serif;">As medidas elétricas em corrente alternada, trifásicas bem como medidas de potência e correção do fator de potência e práticas para a Qualidade de Energia  ( QEE) também são  experimentadas neste espaço.</span></span><br /> 
+</p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	<img height="1333" width="2000" alt="tyty" title="tryrty" class="media-element file-default file-os-files-xxlarge" src="https://coee.ufop.br/sites/default/files/styles/os_files_xxlarge/public/coee/files/dsc_0252.jpg?m=1592258168&amp;itok=rxxrSwpf" /></p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	 
+</p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	<strong><span style="line-height:115%">5.   Laboratório de radiofrequência</span></strong><br />O Laboratório de Telecomunicações - Radiofrequências é destinado ao desenvolvimento de atividades práticas das seguintes disciplinas da área de Telecomunicações lecionadas para os cursos de Engenharia Elétrica e Engenharia de Computação: Fundamentos de Comunicações, Propagação de Ondas de Rádio e Antenas. O laboratório é equipado com geradores de sinais AM/FM, analisadores de espectro, multímetros de alta precisão, kit didático de antenas e conta ainda com um gateway para comunicação LoRa. O laboratório também é utilizado para o desenvolvimento de projetos de final de curso (TCC), atividades de extensão relacionadas à área de Telecomunicações e Projeto Integrador.
+</p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	<img height="1333" width="2000" alt="ertert" title="retert" class="media-element file-default file-os-files-xxlarge" src="https://coee.ufop.br/sites/default/files/styles/os_files_xxlarge/public/coee/files/dsc_0286.jpg?m=1592258257&amp;itok=FkoQ2azc" /></p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	 
+</p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	<strong><span style="line-height:115%">6.   Laboratório de processamento de sinais</span></strong><br />O Laboratório de Telecomunicações – Processamento Digital de Sinais é direcionado principalmente ao desenvolvimento de atividades de ensino dos alunos de graduação dos cursos de Engenharia Elétrica e Engenharia de Computação durante a realização das aulas práticas das disciplinas de Sinais e Sistemas, Fundamentos de Comunicação, Processamento Digital de Sinais e das eletivas da ênfase de telecomunicações do curso. Também é utilizado para desenvolvimento de trabalho final de curso, iniciação científica, pesquisas e atividades de extensão nas áreas de telecomunicações, processamento de sinais e aprendizado de máquina.
+</p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	Trata-se de um espaço equipado com computadores, osciloscópios, geradores de função, placas de aquisição de dados da National Instruments, um ambiente de câmara acústica e kits para aquisição de sinais de fala, vídeo, biométricos, entre outros.
+</p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	<img height="1333" width="2000" alt="fdfg" title="fgdfgdfg" class="media-element file-default file-os-files-xxlarge" src="https://coee.ufop.br/sites/default/files/styles/os_files_xxlarge/public/coee/files/dsc_0304.jpg?m=1592258446&amp;itok=NJ6VPlji" /></p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	<br /><span style="line-height:115%"><strong>7.   Laboratório de eletrônica digital</strong></span><br />Neste laboratório são desenvolvidas as aulas práticas das disciplinasda área de eletrônica digital, que fazem parte da grade curricular dos alunos de engenharia elétrica e de computação.O laboratório também é utilizado para o desenvolvimento de projetos de iniciação científica, extensão e trabalhos de conclusão de curso.<br /><br />Atualmente, são ministradas neste laboratório as seguintes disciplinas obrigatórias:<br />- CEA341 – Princípios de Eletrônica Digital;<br />- CEA580 - Microprocessadores e Microcontroladores;<br />- CEA147 - Eletrônica Embarcada.<br /><br />Além disso, também podem ser ministradas as seguintes disciplinas eletivas:<br />- Sistemas embarcados aplicados a sistemas de controle;<br />- Automação em tempo real;<br />- Interfaceamento de sistemas;<br />- Automação residencial.<br /><br />Durante as aulas práticas, os estudantes têm à disposição os seguintes equipamentos:<br />- Computadores com acesso à internet;<br />- Fontes de alimentação ajustáveis;<br />- Geradores de Sinais;<br />- Multímetros;<br />- Osciloscópios Digitais;<br />- Kits de desenvolvimento com circuitos lógicos, microcontroladores e FPGA’s;<br />- Protoboards e componentes eletrônicos diversos.<br /><br />O laboratório também conta com o suporte de um técnico que,juntamente com os professores responsáveis pelas disciplinas, acompanha os estudantes durante as aulas práticas e os auxilia no desenvolvimento de projetos de pesquisa e extensão.
+</p>
+
+<p class="MsoBodyText" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:.0001pt;margin-left:15.05pt;text-align:justify">
+	<img height="1333" width="2000" alt="Laboratório" title="Eletrônica Digital" class="media-element file-default file-os-files-xxlarge" src="https://coee.ufop.br/sites/default/files/styles/os_files_xxlarge/public/coee/files/dsc_0368.jpg?m=1632866187&amp;itok=oObqUtx2" /></p>
+</div></div></div>  </div>
+
+  
+  
+  </article>
+</div>
+  </div></div></div></div>																																			</div>
+								<!--front panel regions end-->
+													
+											</div>
+				</div>
+
+								  <!--sidebar first region beg-->
+				  <div class="region region-sidebar-first sidebar"><div class="region-inner clearfix"><div id="block-os-secondary-menu" class="block block-os no-title"  module="os" delta="secondary-menu"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-69979"><a href="https://coee.ufop.br/membros-do-colegiado"  title="">Sobre o colegiado</a></li><li class="leaf menu-depth-1 menu-item-69947"><a href="https://coee.ufop.br/trabalho-de-conclus%C3%A3o-de-curso"  title="">Trabalho de Conclusão de Curso - TCC</a></li><li class="leaf menu-depth-1 menu-item-69963"><a href="https://coee.ufop.br/est%C3%A1gio-curricular"  title="">Estágio curricular</a></li><li class="leaf menu-depth-1 menu-item-70036"><a href="https://coee.ufop.br/concess%C3%A3o-de-%C3%AAnfase"  title="">Concessão de ênfase</a></li><li class="leaf menu-depth-1 menu-item-70040"><a href="https://coee.ufop.br/aproveitamento-de-estudos"  title="">Aproveitamento de estudos</a></li><li class="leaf menu-depth-1 menu-item-70030"><a href="https://coee.ufop.br/atividade-extracurricular-atv100"  title="">Atividade extracurricular (ATV100)</a></li><li class="leaf menu-depth-1 menu-item-79836"><a href="https://coee.ufop.br/resolu%C3%A7%C3%B5es"  title="">Resoluções</a></li><li class="leaf menu-depth-1 menu-item-100791"><a href="https://coee.ufop.br/atendimento-psicol%C3%B3gico"  title="">Atendimento Psicológico</a></li><li class="last leaf menu-depth-1 menu-item-133047"><a href="https://www.prograd.ufop.br/calendario-academico" >Calendário acadêmico</a></li></ul></div>
+  </div></div></div></div>				  <!--sidebar first region end-->
+        
+				
+			</div>
+		</div>
+		<!--footer region beg-->
+		<footer id="footer" class="clearfix" role="contentinfo">
+		<!-- Three column 3x33 Gpanel -->
+		  <div id="powerby-login">
+  	<a href="/user?destination=infraestrutura"  class="footer-login">Admin Login</a>  	<div id="powered-by"><a href="https://theopenscholar.com">OpenScholar</a></div>
+    </div>
+  </footer>
+  </div>
+</div><!--page area ends-->
+
+<div id="extradiv"></div>
+
+  <!--FLEXIBLE ADMIN FOOTER FOR USE BY SELECT GROUPS USING OS-->
+  <div id="branding_footer">
+		<div class="branding-container">
+	    <div class="copyright"><span class="harvard-copyright">Copyright &copy; 2024 Universidade Federal de Ouro Preto</span></div>		</div>
+  </div>
+
+</div><!-- /page_wrap -->
+
+  <script src="https://coee.ufop.br/profiles/openscholar/libraries/respondjs/respond.min.js?sgo69t"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/profiles/openscholar/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")</script>
+<script src="https://coee.ufop.br/misc/jquery.once.js?v=1.2"></script>
+<script src="https://coee.ufop.br/misc/drupal.js?sgo69t"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"hwpi_modern","theme_token":"dseb7IbRLTO-PTr2GUQRlG_Uu_1qfDNfUCr0zaukmso"},"colorbox":{"opacity":"0.85","current":"{current} do {total}","previous":"\u00ab Anterior","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcarousel":{"ajaxPath":"https:\/\/coee.ufop.br\/jcarousel\/ajax\/views"},"spaces":{"id":"15744","path":"Colegiado do Curso de Engenharia El\u00e9trica"},"urlIsAjaxTrusted":{"https:\/\/coee.ufop.br\/search\/node":true,"\/infraestrutura":true},"nice_menus_options":{"delay":"800","speed":"slow"},"ogContext":{"groupType":"node","gid":"15744"},"password":{"strengthTitle":"Password compliance:"},"type":"setting"});</script>
+<script src="https://coee.ufop.br/profiles/openscholar/libraries/jquery.bgiframe/jquery.bgiframe.js?v=3.0.1"></script>
+<script src="https://coee.ufop.br/profiles/openscholar/modules/contrib/nice_menus/js/jquery.hoverIntent.js?v=0.5"></script>
+<script src="https://coee.ufop.br/profiles/openscholar/modules/contrib/nice_menus/js/superfish.js?v=1.4.8"></script>
+<script src="https://coee.ufop.br/profiles/openscholar/modules/contrib/nice_menus/js/nice_menus.js?v=1.0"></script>
+<script src="https://coee.ufop.br/profiles/openscholar/modules/os/theme/os_colorbox.js?sgo69t"></script>
+<script src="https://coee.ufop.br/sites/default/files/languages/pt-br_XzArwYP0lSKlV6mboOwps-vN_MKfvsBGOaRC1pKsKwU.js?m=1525724463?sgo69t"></script>
+<script src="https://coee.ufop.br/profiles/openscholar/libraries/colorbox/jquery.colorbox-min.js?sgo69t"></script>
+<script src="https://coee.ufop.br/profiles/openscholar/modules/contrib/colorbox/js/colorbox.js?sgo69t"></script>
+<script src="https://coee.ufop.br/profiles/openscholar/modules/contrib/colorbox/styles/default/colorbox_style.js?sgo69t"></script>
+<script src="https://coee.ufop.br/profiles/openscholar/modules/contrib/colorbox/js/colorbox_inline.js?sgo69t"></script>
+<script src="https://coee.ufop.br/profiles/openscholar/modules/contrib/views_slideshow/js/views_slideshow.js?sgo69t"></script>
+<script>window.CKEDITOR_BASEPATH = '/profiles/openscholar/libraries/ckeditor/'</script>
+<script src="https://coee.ufop.br/profiles/openscholar/modules/os/js/responsive_menu.js?sgo69t"></script>
+<script src="https://coee.ufop.br/profiles/openscholar/modules/os/theme/os_dismiss.js?sgo69t"></script>
+<script src="https://coee.ufop.br/profiles/openscholar/modules/os/js/os_tinymce_init.js?sgo69t"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script src="https://coee.ufop.br/profiles/openscholar/themes/os_basetheme/js/os_base.js?sgo69t"></script>
+<script src="https://coee.ufop.br/profiles/openscholar/themes/hwpi_basetheme/js/css_browser_selector.js?sgo69t"></script>
+<script src="https://coee.ufop.br/profiles/openscholar/themes/hwpi_basetheme/js/matchMedia.js?sgo69t"></script>
+<script src="https://coee.ufop.br/profiles/openscholar/themes/hwpi_basetheme/js/stacktable.js?sgo69t"></script>
+<script src="https://coee.ufop.br/profiles/openscholar/themes/hwpi_basetheme/js/scripts.js?sgo69t"></script>
+  
+  <script defer="defer" src="//barra.brasil.gov.br/barra.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+/**
+ * Global Styles
+ *
+ * We use the "global" namespace to denote files that load for all 
+ * devices as opposed to CSS embedded in media queries.
+ *
+ * This file imports all the global stylesheets into one file.
+ * This is done purely as a house-keeping exercise and to make it easy
+ * to unset one stylesheet by simply commenting it out.
+ * 
+ * When CSS aggregation is ON the @imports are resolved and only one
+ * aggreated file is generated, so there is zero performance overhead
+ * in using @import. In other words this files content is replaced by
+ * all the CSS in the imported stylseheets, then compressed and cached 
+ * by Drupal in the public files directory.
+ *
+ * The modular structure is very similar to Zen and the actual CSS used in 
+ * some of these files is lifted from the Zen theme - this is to  provide 
+ * a consistant themer experience for those who have used Zen. Adaptivetheme 
+ * adds additional classes, makes minor adjustments to some classes, id's 
+ * and the actual styles, and adds base styles for tables and Panels.
+ */
+
+@import "global-base-c73e2ae938.css";     /* Reset + additional styles to support modern web browsers */
+/* @import "https://web.archive.org/web/20240727095454/https://coee.ufop.br/profiles/openscholar/themes/os_basetheme/css/global.tables.css";   Global table styles, these can apply heavily to the admin area or front end */
+@import "global-forms-70b2d59274.css";    /* Global form styles */
+@import "global-pages-a7b2817e7a.css";    /* General styles for page template elements */
+@import "global-nav-a09314ea90.css";      /* Main navigation, menus, breadcrumbs, local tasks, action links, pager and skip navigation */
+@import "global-fields-1f2aaba05a.css";   /* Global styles for fields */
+@import "global-nodes-579f848da7.css";  /* Content types */
+@import "global-biblio-fc8d4e2bbc.css";  /* Content types */
+@import "slideshow-78ec2ea974.css";     /* slideshow */
+/*@import "https://web.archive.org/web/20240727095454/https://coee.ufop.br/profiles/openscholar/themes/os_basetheme/css/global.comments.css";  Comment wrapper, commentss and the comment form */
+/*@import "https://web.archive.org/web/20240727095454/https://coee.ufop.br/profiles/openscholar/themes/os_basetheme/css/global.blocks.css";    Block styles, includes all core blocks */
+/*@import "https://web.archive.org/web/20240727095454/https://coee.ufop.br/profiles/openscholar/themes/os_basetheme/css/global.views.css";     Starter CSS for styling Views */
+/*@import "https://web.archive.org/web/20240727095454/https://coee.ufop.br/profiles/openscholar/themes/os_basetheme/css/global.panels.css";    Starter CSS for styling Panels and panel panes */
+@import "normalize-f7a437e268.css";  /* normailze html5 css */
+@import "print-bb9cc24875.css";  /* basic styles for printing os pages  */
+

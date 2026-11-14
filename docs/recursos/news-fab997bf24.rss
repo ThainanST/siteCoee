@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://coee.ufop.br/news" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notícias </title>
+    <link>https://coee.ufop.br/news</link>
+    <description></description>
+    <language>pt-br</language>
+     <atom:link href="https://coee.ufop.br/news.rss" rel="self" type="application/rss+xml" />
+      </channel>
+</rss>
